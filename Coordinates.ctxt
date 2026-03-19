@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Coordinates
+comment1.params=x\ y
+comment1.target=Coordinates(int,\ int)
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=
+comment3.target=int\ getY()
+comment4.params=p
+comment4.target=double\ distance(Coordinates)
+comment5.params=dx\ dy
+comment5.target=void\ translate(int,\ int)
+comment6.params=factor\ sign
+comment6.target=void\ scale(int,\ boolean)
+comment7.params=
+comment7.target=java.lang.String\ display()
+numComments=8
